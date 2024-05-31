@@ -1,0 +1,62 @@
+[
+  {
+    "name": "John Doe",
+    "age": 45,
+    "party": "Democratic",
+    "voteCount": 0
+  },
+  {
+    "name": "Jane Smith",
+    "age": 52,
+    "party": "Republican",
+    "voteCount": 0
+  },
+  {
+    "name": "Alex Johnson",
+    "age": 37,
+    "party": "Independent",
+    "voteCount": 0
+  },
+  {
+    "name": "Emily Davis",
+    "age": 29,
+    "party": "Green",
+    "voteCount": 0
+  },
+  {
+    "name": "Michael Brown",
+    "age": 61,
+    "party": "Libertarian",
+    "voteCount": 0
+  },
+  {
+    "name": "Olivia Wilson",
+    "age": 34,
+    "party": "Democratic",
+    "voteCount": 0
+  },
+  {
+    "name": "Daniel Martinez",
+    "age": 48,
+    "party": "Republican",
+    "voteCount": 0
+  },
+  {
+    "name": "Sophia Anderson",
+    "age": 42,
+    "party": "Independent",
+    "voteCount": 0
+  },
+  {
+    "name": "David Thomas",
+    "age": 55,
+    "party": "Green",
+    "voteCount": 0
+  },
+  {
+    "name": "Emma Moore",
+    "age": 39,
+    "party": "Libertarian",
+    "voteCount": 0
+  }
+]

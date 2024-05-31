@@ -1,0 +1,18 @@
+/* 
+div{
+    background-image: url('https://pixabay.com/photos/turtle-terrestrial-greek-pup-4277398')
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* element.style {
+    background-color: white;
+} */
+
+
+/* html{
+    scroll-behavior: smooth;
+    background-color: white;
+} */
